@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ontario-battery-boost.github.io/car-battery-boost-brampton-mississauga/sitemap.xml
